@@ -90,6 +90,6 @@ section {
   margin-top: 8px;
   text-decoration: none;
 }
-.products-button::hover {
-  background-color: #4cd137;
+.products-button:hover {
+  background-color: #5cf345;
 }
